@@ -1,0 +1,3 @@
+ID,profession,mod,name,quality,level,exp,gold,hp,damage
+byte,Profession,string,string,Quality,byte,ushort,ushort,uint,uint
+10,Druid,dru,µÂÂ³ÒÁ,Normal,2,20,2,4,3

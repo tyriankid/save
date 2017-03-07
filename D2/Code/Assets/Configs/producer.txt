@@ -1,0 +1,90 @@
+﻿[E80000]暗黑破坏神II  毁灭之王[-]
+
+[E80000]游戏开发[-]
+Blizzard North
+
+[E80000]执行制作[-]
+Max Schaefer
+Mike Morhaime
+
+[E80000]开发总监[-]
+Peter Brevik
+
+[E80000]制作人[-]
+Matt Householder
+Ken Williams
+
+[E80000]企划总监[-]
+Tyler Thompson
+
+[E80000]程序设计师[-]
+Ted Bisson
+Peter Hu
+Doug McCreary
+Divo Palinkas
+Michael Scandizzo
+Steven Woo
+
+[E80000]人物设计总监[-]
+Anthony Rivero
+
+[E80000]人物设计[-]
+Alan Ackerman
+Cheeming Boey
+Even Carroll
+Micheel Dashow
+Kelly Johnson
+John "The kid"Kubasco
+Michio Okamura
+Chris Root
+Phil Shenk
+
+[E80000]场景设计总监[-]
+Alex Munn
+
+[E80000]场景设计[-]
+Ben Boos
+David Glenn
+Mark Sutherland
+Marc Tattersall
+Fred Vaught
+
+[E80000]关卡设计[-]
+Grant Wilson
+Derek McAuley
+Stefan Scandizzo
+
+[E80000]音效总监及谱曲[-]
+Matt Uelmen
+
+[E80000]音效及音控[-]
+Scott Petersen
+
+[E80000]剧情及对白[-]
+Evan Carroll
+Matt Househoder
+Chris Metzen
+Joe Morrissey
+
+[E80000]音乐总监[-]
+Emil Niznansky
+
+[E80000]动画总监[-]
+Matthew Samia
+
+[E80000]动画艺术设计[-]
+Dennis Price
+Patrick Thomas
+Matthew Samia
+Paul Limon
+Jon Lanz
+
+[E80000]Battle.net程序设计师[-]
+John Lagrave
+
+... ...
+
+[A80000]游戏引擎[-]
+Unity3d
+ 
+ 

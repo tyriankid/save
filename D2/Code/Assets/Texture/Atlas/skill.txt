@@ -1,0 +1,180 @@
+{"frames": {
+
+"ama1.jpg":
+{
+	"frame": {"x":2,"y":2,"w":320,"h":432},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":432},
+	"sourceSize": {"w":320,"h":432}
+},
+"ama2.jpg":
+{
+	"frame": {"x":324,"y":2,"w":320,"h":432},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":432},
+	"sourceSize": {"w":320,"h":432}
+},
+"ama3.jpg":
+{
+	"frame": {"x":646,"y":2,"w":320,"h":432},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":432},
+	"sourceSize": {"w":320,"h":432}
+},
+"ass1.jpg":
+{
+	"frame": {"x":968,"y":2,"w":320,"h":432},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":432},
+	"sourceSize": {"w":320,"h":432}
+},
+"ass2.jpg":
+{
+	"frame": {"x":1290,"y":2,"w":320,"h":432},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":432},
+	"sourceSize": {"w":320,"h":432}
+},
+"ass3.jpg":
+{
+	"frame": {"x":1612,"y":2,"w":320,"h":432},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":432},
+	"sourceSize": {"w":320,"h":432}
+},
+"bar1.jpg":
+{
+	"frame": {"x":2,"y":436,"w":320,"h":432},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":432},
+	"sourceSize": {"w":320,"h":432}
+},
+"bar2.jpg":
+{
+	"frame": {"x":324,"y":436,"w":320,"h":432},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":432},
+	"sourceSize": {"w":320,"h":432}
+},
+"bar3.jpg":
+{
+	"frame": {"x":646,"y":436,"w":320,"h":432},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":432},
+	"sourceSize": {"w":320,"h":432}
+},
+"dru1.jpg":
+{
+	"frame": {"x":968,"y":436,"w":320,"h":432},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":432},
+	"sourceSize": {"w":320,"h":432}
+},
+"dru2.jpg":
+{
+	"frame": {"x":1290,"y":436,"w":320,"h":432},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":432},
+	"sourceSize": {"w":320,"h":432}
+},
+"dru3.jpg":
+{
+	"frame": {"x":1612,"y":436,"w":320,"h":432},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":432},
+	"sourceSize": {"w":320,"h":432}
+},
+"nec1.jpg":
+{
+	"frame": {"x":2,"y":870,"w":320,"h":432},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":432},
+	"sourceSize": {"w":320,"h":432}
+},
+"nec2.jpg":
+{
+	"frame": {"x":324,"y":870,"w":320,"h":432},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":432},
+	"sourceSize": {"w":320,"h":432}
+},
+"nec3.jpg":
+{
+	"frame": {"x":646,"y":870,"w":320,"h":432},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":432},
+	"sourceSize": {"w":320,"h":432}
+},
+"pal1.jpg":
+{
+	"frame": {"x":968,"y":870,"w":320,"h":432},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":432},
+	"sourceSize": {"w":320,"h":432}
+},
+"pal2.jpg":
+{
+	"frame": {"x":1290,"y":870,"w":320,"h":432},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":432},
+	"sourceSize": {"w":320,"h":432}
+},
+"pal3.jpg":
+{
+	"frame": {"x":1612,"y":870,"w":320,"h":432},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":432},
+	"sourceSize": {"w":320,"h":432}
+},
+"sor1.jpg":
+{
+	"frame": {"x":2,"y":1304,"w":320,"h":432},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":432},
+	"sourceSize": {"w":320,"h":432}
+},
+"sor2.jpg":
+{
+	"frame": {"x":324,"y":1304,"w":320,"h":432},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":432},
+	"sourceSize": {"w":320,"h":432}
+},
+"sor3.jpg":
+{
+	"frame": {"x":646,"y":1304,"w":320,"h":432},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":432},
+	"sourceSize": {"w":320,"h":432}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "skill.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:80d28ec071d09fc2667386ae1b6a59d5$"
+}
+}
